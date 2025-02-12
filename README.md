@@ -1,6 +1,6 @@
-# [BibJSON](https://okfnlabs.org/projects/bibjson/)
+# HOW TO DO BIBJSON
 
-**HOW TO DO BIBJSON** - It's just JSON... only, with some useful conventions.
+It's just JSON... only, with some useful conventions.
 
 _Contents_
 
@@ -346,4 +346,6 @@ not necessarily reflect the views of the National Science Foundation.
 
 ---
 
-Original Website see: https://web.archive.org/web/20231127153911/https://okfnlabs.org/bibjson/
+Current Website: https://okfnlabs.org/projects/bibjson/
+
+Original Website https://web.archive.org/web/20231127153911/https://okfnlabs.org/bibjson/
