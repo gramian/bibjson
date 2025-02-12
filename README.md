@@ -343,3 +343,7 @@ not necessarily reflect the views of the National Science Foundation.
 * With support from [JISC](http://jisc.ac.uk) via the [Open Biblio 2](http://openbiblio.net/p/jiscopenbib2) project
 * As used in [BibServer](http://github.com/okfn/bibserver)
 * Read [Open Bibliography for STM](http://www.jcheminf.com/content/3/1/47)
+
+---
+
+Original Website see: https://web.archive.org/web/20231127153911/https://okfnlabs.org/bibjson/
